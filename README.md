@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:279eef97ab516b6b7a0fd989324bd709931692c4246e1b3b0169b699d418b986
-size 450
+Simple benchmarking repo with bash scripts for evaluating different CPU mast options from 0 to AVX512 icl. 
+
+Also includes scripts for measuring temps and core clocks 
